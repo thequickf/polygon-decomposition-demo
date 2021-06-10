@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainFace.qml</file>
+        <file>PolygonDrawingCanvas.qml</file>
+    </qresource>
+</RCC>
